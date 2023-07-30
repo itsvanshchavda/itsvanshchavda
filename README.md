@@ -1,8 +1,3 @@
-Frontend Webdev : 
-
-HTML / CSS
-React js 
-Angular 16
 
 Contributing in open source..
 
