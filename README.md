@@ -1,10 +1,7 @@
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-<div align="center">
-   ![image](https://github.com/itsvanshchavda/itsvanshchavda/assets/92269332/0037f51f-a0b5-49ae-8d14-a80d3535a0e0)
 
-</div>
 
 <h1 align="center">Hello there! 👋 I'm Vansh Chavda</h1>
 
@@ -15,9 +12,7 @@
 
 <h3 align="center">Passionate Developer | Open Source Enthusiast</h3>
 
----
 
-### 🛠️ Skills
 
 ### 🛠️ Skills
 
@@ -29,7 +24,6 @@
   <i class="fas fa-code"></i> Problem Solving
 
 
----
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername" alt="Profile Views">
