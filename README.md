@@ -2,7 +2,8 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 <div align="center">
-<iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>
+   ![image](https://github.com/itsvanshchavda/itsvanshchavda/assets/92269332/0037f51f-a0b5-49ae-8d14-a80d3535a0e0)
+
 </div>
 
 <h1 align="center">Hello there! 👋 I'm Vansh Chavda</h1>
