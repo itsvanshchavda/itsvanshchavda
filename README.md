@@ -13,7 +13,6 @@
 <h3 align="center">Passionate Developer | Open Source Enthusiast</h3>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=itsvanshchavda&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvanshchavda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
