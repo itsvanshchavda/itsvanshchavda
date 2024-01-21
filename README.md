@@ -10,7 +10,7 @@
   <a href="twitter.com/itsvanshchavda "><i class="fab fa-twitter"></i> Twitter</a>
 </p>
 
-<h3 align="center">Passionate Developer | Open Source Enthusiast | Frontend Developer</h3>
+<h3 align="center">Full stack developer </h3>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvanshchavda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
