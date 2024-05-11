@@ -10,7 +10,7 @@
   <a href="twitter.com/vanshchavda_ "><i class="fab fa-twitter"></i> Twitter</a>
 </p>
 
-<h3 align="center">Full Stack Developer || GSSoC'24 Contributor</h3>
+<h3 align="center">Full Stack Developer • GSSoC'24 Contributor</h3>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvanshchavda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
