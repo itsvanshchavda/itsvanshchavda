@@ -6,7 +6,7 @@
 <h1 align="center">Hello there! 👋 I'm Vansh Chavda</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vansh-chavda-15287124a/"><i class="fab fa-linkedin"></i> LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/vanshchavda07"><i class="fab fa-linkedin"></i> LinkedIn</a> •
   <a href="twitter.com/vanshchavda_ "><i class="fab fa-twitter"></i> Twitter</a>
 </p>
 
