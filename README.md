@@ -22,7 +22,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername" alt="Profile Views">
-</p>
