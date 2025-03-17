@@ -11,12 +11,11 @@
    <a href="https://vanshchavda.me/"><i class="fab fa-twitter"></i> Portfolio</a>
 </p>
 
-<h3 align="center">Full Stack Developer • GSSoC'24 Contributor</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvanshchavda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
