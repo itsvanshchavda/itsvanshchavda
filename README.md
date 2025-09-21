@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vanshchavda07"><i class="fab fa-linkedin"></i> LinkedIn</a> •
   <a href="twitter.com/vanshchavda_ "><i class="fab fa-twitter"></i> Twitter</a> •
-   <a href="https://vanshchavda.me/"><i class="fab fa-twitter"></i> Portfolio</a>
+   <a href="https://vanshchavda.tech/"><i class="fab fa-twitter"></i> Portfolio</a>
 </p>
 
 <h3 align="center">Full Stack Developer</h3>
