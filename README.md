@@ -1,21 +1,31 @@
+### Vansh Chavda — Full-Stack Developer
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+Next.js · Node.js · Puppeteer · OpenAI/Gemini APIs
 
-<h1 align="center">Hello there! 👋 I'm Vansh Chavda</h1>
+Building production SaaS tools, web automation systems, and AI-integrated apps.  
+2+ years of experience. Shipped tools with paying B2B customers.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vanshchavda07"><i class="fab fa-linkedin"></i> LinkedIn</a> •
-  <a href="twitter.com/vanshchavda_ "><i class="fab fa-twitter"></i> Twitter</a> •
-   <a href="https://vanshchavda.tech/"><i class="fab fa-twitter"></i> Portfolio</a>
-</p>
+**Currently:** Open to remote or Ahmedabad onsite roles.
 
-<h3 align="center">Full Stack Developer</h3>
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvanshchavda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Stack**
 
+`Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `Puppeteer` `OpenAI API` `Gemini API` `Tailwind CSS` `Framer Motion` `React` `Sanity CMS`
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Things I've built**
 
+- [Contract Jobs AI](https://contractjobs.ai/) — Job application automation bot. B2B SaaS with paying customers.
+- [Jobnomous](https://jobnomous.com/) — AI-powered job application platform. Handles captchas, dynamic forms, multi-step flows.
+- AI Lead Gen Tool — Scrapes Google Maps → audits sites via Gemini → generates outreach emails.
+- [Infratrail](https://www.infratrail.ai/) — DevOps SaaS dashboards with AWS integration and real-time infra monitoring.
 
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshchavda42&theme=dark&hide_border=true&layout=compact)
+
+---
+
+[Portfolio](https://vanshchavda.dev) · [LinkedIn](https://www.linkedin.com/in/vanshchavda07/) · vanshchavda328@gmail.com
