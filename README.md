@@ -1,4 +1,4 @@
-### Vansh Chavda — Full-Stack Developer
+### Vansh Chavda Full-Stack Developer
 
 Next.js · Node.js · Puppeteer · OpenAI/Gemini APIs
 
