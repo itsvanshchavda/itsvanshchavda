@@ -5,8 +5,6 @@ Next.js · Node.js · Puppeteer · OpenAI/Gemini APIs
 Building production SaaS tools, web automation systems, and AI-integrated apps.  
 2+ years of experience. Shipped tools with paying B2B customers.
 
-**Currently:** Open to remote or Ahmedabad onsite roles.
-
 ---
 
 **Stack**
